@@ -1,0 +1,21 @@
+{
+  "name": "skandia-mui-theme",
+  "version": "1.0.0",
+  "description": "Skandia MUI Theme for internal apps",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rådger More",
+  "license": "ISC",
+  "dependencies": {
+    "@mui/material": "^6.1.9"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
